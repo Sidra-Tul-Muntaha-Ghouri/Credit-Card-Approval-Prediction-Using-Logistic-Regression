@@ -3,7 +3,7 @@ In this project, I'll use logistic regression to forecast whether or not a credi
 
 The Project involves the following steps:
 1. Loading dataset
-2. Inspection
+2. Dataset Inspection
 3. Splitting the dataset into train and test sets
 4. Missing Values Handling
 5. Preprocessing the data
