@@ -1,7 +1,7 @@
 # Credit-Card-Approval-Prediction-Using-Logistic-Regression
 In this project, I've applied logistic regression model to forecast whether or not a credit card application will be approved.
 
-The Project involves the following steps:
+##The Project involves the following steps:
 1. Loading dataset
 2. Dataset Inspection
 3. Splitting the dataset into train and test sets
