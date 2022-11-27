@@ -14,3 +14,5 @@ In this project, I've applied logistic regression model to forecast whether or n
 
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.
+
+Download Dataset from [Here](http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data)
